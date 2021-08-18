@@ -1,0 +1,39 @@
+.heading{
+    font-size:25px;
+    width:100%;
+    box-shadow:5px 5px 5px blue;
+}
+
+.heading_div{
+    float:none;
+    background:white;
+    padding:10px;
+    border-radius:20px;
+    box-shadow:5px 5px 5px cyan;
+}
+
+
+.heading_div2{
+    font-size:20px;
+}
+
+
+.copyright{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align: center;
+line-height: 3;
+background-color:grey;
+}
+
+.resultpara{
+    box-shadow:5px 5px 5px teal;
+}
+
+canvas{
+    border:5px solid blue;
+    border: radius 20px;
+    box-shadow:5px 5px 5px cyan;
+    margin-top:150px;
+}
