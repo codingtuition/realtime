@@ -10,7 +10,7 @@ function  setup()
 
 
 
-function modeloaded()
+function modelloaded()
 {
 console.log("modelisloaded");
 }
